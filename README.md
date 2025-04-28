@@ -31,7 +31,6 @@ Welcome to the **Secure Data Encryption System** – a secure and simple Streaml
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/moizahmedshaikh/secure-data-encryption-app.git
 cd secure-data-encryption-app
 ```
 
@@ -97,19 +96,14 @@ secure-data-encryption-app/
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
 ## 🧑‍💻 Author
 
-**Moiz Ahmed**  
+**Fazeel ahmed**  
 📍 Karachi, Pakistan  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/moiz-ahmed-6516b728a/)
+
 
 ---
 
