@@ -31,6 +31,7 @@ Welcome to the **Secure Data Encryption System** – a secure and simple Streaml
 ### 1. Clone the Repository
 
 ```bash
+gh repo clone fazeel25/secure_data_encryption-main
 cd secure-data-encryption-app
 ```
 
